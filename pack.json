@@ -5,7 +5,19 @@
   "version": "v0.0",
   "manifest_version": 2,
   "music": false,
-  "ignore": [],
+  "ignore": [
+    "bumper_end.wav",
+    "confirmation_negative.wav",
+    "confirmation_positive.wav",
+    "deck_ui_message_toast.wav",
+    "deck_ui_misc_01.wav",
+    "deck_ui_misc_08.wav",
+    "deck_ui_tile_scroll.wav",
+    "deck_ui_typing.wav",
+    "pop_sound.wav",
+    "ui_steam_smoother_friend_join.m4a",
+    "ui_steam_smoother_friend_online.m4a"
+  ],
   "mappings": {
     "deck_ui_achievement_toast.wav": ["sounds/world_item2.wav"],
     "deck_ui_bumper_end_02.wav": ["sounds/world_nav.wav"],
