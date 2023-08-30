@@ -1,0 +1,33 @@
+{
+  "name": ".hack//INFECTION Sounds",
+  "description": "Use this field to describe the pack.",
+  "author": "RaineXael",
+  "version": "v0.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {
+    "deck_ui_achievement_toast.wav": ["sounds/world_item2.wav"],
+    "deck_ui_bumper_end_02.wav": ["sounds/world_nav.wav"],
+    "deck_ui_default_activation.wav": ["sounds/world_confirm.wav"],
+    "deck_ui_hide_modal.wav": ["sounds/world_return.wav"],
+    "deck_ui_into_game_detail.wav": ["sounds/desktop_confirm.wav"],
+    "deck_ui_launch_game.wav":["sounds/desktop_launch_world.wav"],
+    "deck_ui_misc_10.wav": ["sounds/world_nav.wav"],
+    "deck_ui_navigation.wav": ["sounds/world_nav.wav"],
+    "deck_ui_out_of_game_detail.wav": ["sounds/desktop_return.wav"],
+    "deck_ui_show_modal.wav": ["sounds/world_open.wav"],
+    "deck_ui_side_menu_fly_out.wav": ["sounds/desktop_swoosh.wav"],
+    "deck_ui_side_menu_fly_in.wav": ["sounds/desktop_boot.wav"],
+    "deck_ui_slider_down.wav": ["sounds/desktop_nav.wav"],
+    "deck_ui_slider_up.wav": ["sounds/desktop_nav.wav"],
+    "deck_ui_switch_toggle_on.wav": ["sounds/desktop_confirm.wav"],
+    "deck_ui_switch_toggle_off.wav": ["sounds/desktop_return.wav"],
+    "deck_ui_tab_transition_01.wav": ["sounds/world_nav.wav"],
+    "deck_ui_toast.wav": ["sounds/world_item2.wav"],
+    "deck_ui_volume.wav": ["sounds/desktop_confirm.wav"],
+    "steam_at_mention.m4a": ["sounds/mail.wav"],
+    "steam_chatroom_notification.m4a": ["sounds/mail.wav"],
+    "ui_steam_message_old_smooth.m4a": ["sounds/mail.wav"]
+  }
+}
